@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Şule Nilay Duman</h1>
-<h3 align="center">A student who constantly develops and improves.</h3>
+<h1 align="center">Hi, I'm Şule Nilay Duman</h1>
+
 
 - 🔭 I’m currently working on **Mobile App & Game Developing**
 
