@@ -19,6 +19,25 @@ return Hello, I'm ${this.name}, an ${this.profession}. I primarily work with ${t
 
 console.log(aboutMe.getIntroduction());
 ```
+## Let's Meet👋
+
+I'm Sule Nilay, a Computer Engineer. I enjoy building applications with modern web technologies and have experience in a variety of tech stacks.
+
+💻 I primarily work with JavaScript and related frameworks such as React and Node.js.
+
+📱 I have experience with Kotlin, Flutter, and React Native for mobile app development. But I prefer React Native <3.
+
+☁️ I have used Firebase for backend services and real-time databases.
+
+🤖 **Microsoft Imagine Cup 2023**: Developed a mobile application using Flutter and Azure.
+
+🚀 **IFAC and Teknofest Competitions**: Developed software for two different drones using Python, Dronekit, TensorFlow, and OpenCV.
+
+👇 **MY NEW Baby!**
+
+🗂️ **#Midnight Club!**
+You will tell your story whenever you want to whoever you want.
++ Manage user interactions seamlessly with Midnight Club. This mobile application utilizes React Native for the frontend, integrating Node.js for backend operations. MongoDB serves as the database, while Firebase handles authentication and real-time updates. Amazon S3 manages data storage, and WebSocket ensures smooth, real-time communication.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
