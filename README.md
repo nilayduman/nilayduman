@@ -5,9 +5,20 @@
 
 - 📫 How to reach me **ssnilaydmn@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+```javascript
+const aboutMe = {
+name: "Sule Nilay",
+pronouns: ["she", "her"],
+profession: "Mobile App Dev. and Fullstack Web Dev.",
+preferredTechStack: ["JavaScript", "React", "Node.js", "Next.js"],
+hasUsed: ["MERN", "MongoDB", "Firebase", "C family <3", "Python"],
+getIntroduction() {
+return Hello, I'm ${this.name}, an ${this.profession}. I primarily work with ${this.preferredTechStack.join(", ")}. I have also worked with ${this.hasUsed.join(", ")}.;
+}
+};
+
+console.log(aboutMe.getIntroduction());
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
