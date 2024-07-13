@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Şule Nilay Duman</h1>
+<h1 align="center">Hello Friend, I'm Şule Nilay Duman</h1>
 
 
 - 🔭 I’m currently working on **Mobile App & Game Developing**
