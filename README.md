@@ -38,7 +38,7 @@ I'm Sule Nilay, a Computer Engineer. I enjoy building applications with modern w
 🗂️ **#Midnight Club!**
 You will tell your story whenever you want to whoever you want.
 + Manage user interactions seamlessly with Midnight Club. This mobile application utilizes React Native for the frontend, integrating Node.js for backend operations. MongoDB serves as the database, while Firebase handles authentication and real-time updates. Amazon S3 manages data storage, and WebSocket ensures smooth, real-time communication.
-+ ![Midnight Club]([https://github.com/user-attachments/assets/41b88ff2-ae50-4ae0-aa05-2bbc55e6452](https://r.resimlink.com/ajBEq.png)b)
+![Midnight Club](https://r.resimlink.com/ajBEq.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
